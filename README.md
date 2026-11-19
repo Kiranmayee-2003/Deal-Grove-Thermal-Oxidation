@@ -11,7 +11,7 @@ A Python model of dry and wet thermal oxidation of silicon using the Deal-Grove 
 
 ## How to run
 
-1. Open `Deal\_Grove\_Thermal\_Oxidation.ipynb` in [Google Colab](https://colab.research.google.com) (File > Upload notebook).
+1. Open `Deal_Grove_Thermal_Oxidation.ipynb` in [Google Colab](https://colab.research.google.com) (File > Upload notebook).
 2. Choose Runtime > Run all.
 3. Change the values in the **Inputs** cell (temperatures, silicon orientation, target thickness) and re-run.
 
